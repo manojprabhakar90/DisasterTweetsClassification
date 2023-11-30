@@ -12,4 +12,8 @@ Training Data: 7613 records with 5 columns (id, keyword, location, text and targ
 
 Test Data: 3623 records with 4 columns (id, keyword, location, text)
 
-BERT based models are used for classification. The accuracy of models are around 0.82 in the validation data. 
+BERT based models are used for classification. The accuracy of these models are around 0.82 in the validation data.
+
+Can be improved with more epochs as well as with other architectures such as Roberta/Deberta.
+
+Add keywords/location as well as other features to provide more context to the tweet. 
