@@ -17,3 +17,5 @@ BERT based models are used for classification. The accuracy of these models are 
 Can be improved with more epochs as well as with other architectures such as Roberta/Deberta.
 
 Add keywords/location as well as other features to provide more context to the tweet. 
+
+Leaderboard score: 0.8219
